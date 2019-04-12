@@ -1,5 +1,5 @@
 # Tester
-Software for logging and tracking the testing process. Can notify about the end of test.
+Software for logging and tracking the testing process. Can notify about the end of test. Export data to CSV and HTML formats.
 
 ## Screeshots
 ![Screenshot1](screenshot/scrn1.JPG?raw=true)
